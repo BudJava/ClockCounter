@@ -29,7 +29,7 @@ public class Main {
         
         int i = 0;
         
-        // Change value 121 in while parameter to indicate when couting should stop
+        // Change value 121 in while parameter to indicate when counting should stop
         while (i < 121) {
 
             System.out.println(hours + ":" + minutes + ":" + seconds);
